@@ -110,7 +110,7 @@ bot.on('message', (message) => {
     if (query.data === '/link') {
       PayCreate(userId);
     } if (query.data === '/status') {
-      PayStatus(chatId,userId);
+      PayStatus(userId);
     }
   
   });
