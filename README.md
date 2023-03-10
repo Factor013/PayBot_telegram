@@ -24,13 +24,13 @@ Tela de Orçamento
 Tela de Dados
 </div>
 
-![WhatsApp Image 2023-03-10 at 18 08 43](https://user-images.githubusercontent.com/28853497/224433289-4d725986-d37c-49b3-9129-415868c48a7c.jpeg)
+
 
 
 
 <div align="center" >
-<img src="https://user-images.githubusercontent.com/28853497/224433225-ac8fea57-b6a6-44b6-929f-4d4c0cf4e6af.jpeg" width="200" />
+<img src="https://user-images.githubusercontent.com/28853497/224433225-ac8fea57-b6a6-44b6-929f-4d4c0cf4e6af.jpeg" width="400" />
 &#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160
-<img src="https://user-images.githubusercontent.com/28853497/224433289-4d725986-d37c-49b3-9129-415868c48a7c.jpeg" width="200"/>
+<img src="https://user-images.githubusercontent.com/28853497/224433289-4d725986-d37c-49b3-9129-415868c48a7c.jpeg" width="400"/>
 </div><br>
 
