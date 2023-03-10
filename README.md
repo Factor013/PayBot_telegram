@@ -4,10 +4,11 @@
 <img src="https://img.shields.io/badge/Status%3A-In%20Progress-green"/>
 </p>
 
-<h2>Aplicação desenvolvida usando Nodejs, Node-telegram-bot-api e Api do Mercado pago para gerar links de pagamento através de um bot no Telegram.</h2>
+<h2>Aplicação desenvolvida usando Nodejs, Node-telegram-bot-api e Api do Mercado Pago para gerar links de pagamento através de um bot no Telegram.</h2>
+<br>
 <p>Conta com duas opções para o usuário.<br>
  <ul>
-   <li>Link de Pagamento: Gera o link de pagamento ao usuário através da api do mercado pagon com o valor já pré definido.</li>  
+   <li>Link de Pagamento: Gera o link de pagamento ao usuário através da api do Mercado Pago com o valor já pré definido.</li>  
    <li>Status de Pagamento: Consulta os pagamentos na conta cadastrada, caso for aprovado envia o link definido para o usuário.</li>
  </ul>
  <ul>
@@ -23,9 +24,13 @@ Tela de Orçamento
 Tela de Dados
 </div>
 
+![WhatsApp Image 2023-03-10 at 18 08 43](https://user-images.githubusercontent.com/28853497/224433289-4d725986-d37c-49b3-9129-415868c48a7c.jpeg)
+
+
+
 <div align="center" >
-<img src="https://user-images.githubusercontent.com/28853497/224380304-ecc6f5e3-0657-4328-ad02-4b6258a75c9c.jpeg" width="200" />
+<img src="https://user-images.githubusercontent.com/28853497/224433225-ac8fea57-b6a6-44b6-929f-4d4c0cf4e6af.jpeg" width="200" />
 &#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160
-<img src="https://user-images.githubusercontent.com/28853497/224381317-a5a7378e-d994-4ad4-ae4f-aafe06b2703b.jpeg" width="200"/>
+<img src="https://user-images.githubusercontent.com/28853497/224433289-4d725986-d37c-49b3-9129-415868c48a7c.jpeg" width="200"/>
 </div><br>
 
