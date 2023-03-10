@@ -1,29 +1,20 @@
-<h1 align="center"> Orçamento3DApp </h1>
+<h1 align="center"> Telegram PayBot </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Expo-0.6.2-blue"/>
 <img src="https://img.shields.io/badge/Status%3A-In%20Progress-green"/>
 </p>
 
-<h2>Aplicação desenvolvida usando React Native e Expo para auxiliar a realização de orçamentos de peças impressas em 3D.</h2>
-<p>Conta com duas telas simples e campos a serem preenchidos antes de realizar o cálculo do orçamento.<br>
-<p> Na tela ORÇAMENTO, temos dois campos:
+<h2>Aplicação desenvolvida usando Nodejs, Node-telegram-bot-api e Api do Mercado pago para gerar links de pagamento através de um bot no Telegram.</h2>
+<p>Conta com duas opções para o usuário.<br>
  <ul>
-   <li>Peso da Peça (peso da peça dado pelo fatiador)</li>  
-   <li>Tempo de Impressão (tempo de impressão da peça (EM MINUTOS) dado pelo fatiador)</li>
+   <li>Link de Pagamento: Gera o link de pagamento ao usuário através da api do mercado pagon com o valor já pré definido.</li>  
+   <li>Status de Pagamento: Consulta os pagamentos na conta cadastrada, caso for aprovado envia o link definido para o usuário.</li>
  </ul>
- OBS: O cálculo só será realizado caso o usuário preencha e salve os dados na tela de DADOS.<br><br>
-<p> Na tela DADOS, temos campos essenciais para realizar o cálculo de precificação das peças, como: 
-<ul> 
-  <li>Consumo de máquina (medida em watts).</li>
-  <li>Energia (preço por Kw/H).</li>
-  <li>Taxa de Erros(porcentagem de erros para cada impressão).</li>
-  <li>Fixação de peças (preço por aditivo a cada impressão).</li> 
-  <li>Valor do Filamento (preço total da compra, independe do tamanho do carretel).</li>
-  <li>Quantidade Comprada (quantidade de filamento comprada).</li>
-  <li>Lucro(porcentagem de lucro para cada peça).</li>
-  <li>Depreciação(porcentagem de depreciação e desgaste de cada máquina a cada impressão)</li>
-</ul>
-<p> O botão "Salvar Dados" guarda com AsyncStorage os dados digitados pelo usuário para realizar o cálculo posteriormente.<br>
+ <ul>
+ OBS: 
+ <li>Todo Link de Pagamento expira em 30 MINUTOS caso não haja nenhum pagamento.</li>
+ <li>O sistema consulta o status do pagamento, caso haja mais de um pagamento ou seja necessário controle com periodicidade(mensal, samanal, etc.), será necessário ser implementado.
+ </ul>
 
 <div>
 &#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160
