@@ -12,7 +12,7 @@
    <li>Status de Pagamento: Consulta os pagamentos na conta cadastrada, caso for aprovado envia o link definido para o usuário.</li>
  </ul>
  <ul>
- OBS: 
+ <b text-color="red">OBS: </b>
  <li>Todo Link de Pagamento expira em 30 MINUTOS caso não haja nenhum pagamento.</li>
  <li>O sistema consulta o status do pagamento, caso haja mais de um pagamento ou seja necessário controle com periodicidade(mensal, samanal, etc.), será necessário ser implementado.
  </ul>
