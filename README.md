@@ -25,7 +25,7 @@ Link de Pagamento
 </div>
 
 <div align="center" >
-<img src="https://user-images.githubusercontent.com/28853497/224433225-ac8fea57-b6a6-44b6-929f-4d4c0cf4e6af.jpeg" width="250" />
+<img src="https://user-images.githubusercontent.com/28853497/224435214-8874205e-131a-4440-96b0-c6683a34dda3.jpeg" width="250" />
 &#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160
 <img src="https://user-images.githubusercontent.com/28853497/224433289-4d725986-d37c-49b3-9129-415868c48a7c.jpeg" width="250"/>
 </div><br>
