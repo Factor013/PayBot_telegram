@@ -5,8 +5,10 @@
 </p>
 
 Bot for Telegram to create payment links using Mercado Pago API<br>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/28853497/224435214-8874205e-131a-4440-96b0-c6683a34dda3.jpeg" width="250"/>
-<img src="https://user-images.githubusercontent.com/28853497/224433289-4d725986-d37c-49b3-9129-415868c48a7c.jpeg" width="250"/>
+<img src="https://user-images.githubusercontent.com/28853497/224433289-4d725986-d37c-49b3-9129-415868c48a7c.jpeg" width="250" />
+  </p>
 ## Use
 
 01. Download the source code [https://github.com/Factor013/PayBot_telegram/releases].
