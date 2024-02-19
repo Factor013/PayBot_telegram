@@ -32,5 +32,5 @@ Bot for Telegram to create payment links using Mercado Pago API
 
 
 ## Obs:
-The generated payment link expires in 30 minutes from the moment it is generated.
+The generated payment link expires in 30 minutes from the moment it is generated.<br>
 Do not share your bot token or Mercado-Pago credentials.
