@@ -29,7 +29,7 @@ Bot for Telegram to create payment links PIX using Mercado Pago API<br>
 15. Copy your Client ID and replace in the line - client_id: 'SEU CLIENT ID'.
 16. Copy your Client Secret and replace it in the line - client_secret: 'SEU CLIENT SECRET'.
 17. Save the file.
-18. Open terminal or cmd.
+18. Open terminal or cmd in the folder.
 19. Run a - npm install.
 20. Run a - node index.js
 21. Open Telegram and start a conversation with your bot.
