@@ -8,15 +8,15 @@ Bot for Telegram to create payment links using Mercado Pago API
 
 ## Use
 
-1. Download the source code [https://github.com/Factor013/PayBot_telegram/releases].
-2. Extract the file to a folder.
-3. Access (https://telegram.me/BotFather)
-4. Start a conversation.
-5. Run /newbot.
-6. Choose the bot name according to the BotFather guidelines.
-7. Copy your bot token.
-8. Open the extracted project folder.
-9. Edit the index.js file
+01. Download the source code [https://github.com/Factor013/PayBot_telegram/releases].
+02. Extract the file to a folder.
+03. Access (https://telegram.me/BotFather)
+04. Start a conversation.
+05. Run /newbot.
+06. Choose the bot name according to the BotFather guidelines.
+07. Copy your bot token.
+08. Open the extracted project folder.
+09. Edit the index.js file
 10. Add your Token in - const TOKEN = 'SEU TOKEN Do BOT';
 11. Now go to (https://www.mercadopago.com.br/mlb/account/credentials)
 12. Access your account or create one.
