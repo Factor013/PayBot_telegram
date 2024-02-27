@@ -33,7 +33,7 @@ Bot for Telegram to create payment links PIX using Mercado Pago API<br>
 19. Run a - npm install.
 20. Run a - node index.js
 21. Open Telegram and start a conversation with your bot.
-22. To use the webhook version, open the "use webhook" folder and edit the same fields. Also add the public url of your bot to the line " const url = 'https://(PUBLIC_URL)'; ".
+22. To use the webhook version, open the "use webhook" folder and edit the same fields. Also add the public url of your bot to the line - " const url = 'https://(PUBLIC_URL)'; ".
 
 
 ## Obs:
