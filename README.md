@@ -40,4 +40,4 @@ Bot for Telegram to create payment links PIX using Mercado Pago API<br>
 The generated payment link expires in 30 minutes from the moment it is generated.<br>
 Do not share your bot token or Mercado-Pago credentials.
 
-<a href="https://www.buymeacoffee.com/Factor013" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Factor013" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
